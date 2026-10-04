@@ -1,0 +1,35 @@
+commit 11a7a4d3f0037446b65a5774e580d6c7c9b41ab7
+Author: sammourh <sammourh@c2r7s13.irbid.42.school>
+Date:   Sun Oct 4 11:45:19 2026 +0300
+
+    Added public ssh key
+
+commit a17614692b084af6d3ddadb3057ccf796fe19cf9
+Author: sammourh <sammourh@c2r7s13.irbid.42.school>
+Date:   Sun Oct 4 11:03:52 2026 +0300
+
+    docs: Added README.md for the project.
+
+commit 2bb64a778de95af6cf1729c669fc6eaaf91b2040
+Author: sammourh <sammourh@c2r7s13.irbid.42.school>
+Date:   Sun Oct 4 10:38:37 2026 +0300
+
+    feat: added the discovery-web-piscine repo url to exercise02
+
+commit 8047f5adace93c33753b6d1e896d09d54a6ed756
+Author: sammourh <sammourh@c2r7s13.irbid.42.school>
+Date:   Sun Oct 4 10:35:09 2026 +0300
+
+    feat: created a public repository discovery-web-piscine in ex02, pushed hello.txt and generated a file containing its git log.
+
+commit 5f2e102a874977d3b99d8891f0d4e26d4c5d5a7f
+Author: sammourh <sammourh@c2r7s13.irbid.42.school>
+Date:   Sun Oct 4 10:15:47 2026 +0300
+
+    feat: solution of exercise01, with a running script.
+
+commit b52fad1d22d797ba31f7dc2dfea8a0cd23a61b63
+Author: sammourh <sammourh@c2r7s13.irbid.42.school>
+Date:   Sun Oct 4 10:11:08 2026 +0300
+
+    feat: exercise00 solution file
