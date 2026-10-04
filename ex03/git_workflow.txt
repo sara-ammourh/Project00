@@ -1,3 +1,9 @@
+commit 2e4a02b2d97e40b109ebd0a4a9d300ac9341cf70
+Author: sammourh <sammourh@c2r7s13.irbid.42.school>
+Date:   Sun Oct 4 11:53:51 2026 +0300
+
+    docs: added the recorded log of git commits showing the added files
+
 commit 11a7a4d3f0037446b65a5774e580d6c7c9b41ab7
 Author: sammourh <sammourh@c2r7s13.irbid.42.school>
 Date:   Sun Oct 4 11:45:19 2026 +0300
