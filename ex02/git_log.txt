@@ -1,0 +1,5 @@
+commit ca2f13c99adbcf7ba08f8bb60b22ab81637ba3bf
+Author: sammourh <sammourh@c2r3s5.irbid.42.school>
+Date:   Thu Oct 1 11:04:32 2026 +0300
+
+    feat: added a new file 'hello.txt'
